@@ -10,6 +10,6 @@ function precioConIva($precio, $iva) {
 }
 
 function saludoMario(){
-    print("Hola");
+    print("Hola")
 }
 ?>
