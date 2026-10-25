@@ -8,4 +8,8 @@
 function precioConIva($precio, $iva) {
     return $precio * (1 + $iva / 100);
 }
+
+function saludoMario(){
+    print("Hola");
+}
 ?>
