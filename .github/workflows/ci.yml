@@ -13,4 +13,4 @@ jobs:
         php-version: '8.3'
 
     - name: Comprobar sintaxis
-      run: php -l funciones.php
+    run: php -l funciones.php
